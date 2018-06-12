@@ -10,5 +10,6 @@
 
 ### Resources:
 1. Game Engine Architecture - Jason Gregory
-2. [Let’s Build a 3D Graphics Software Engine](https://gamedevelopment.tutsplus.com/series/lets-build-a-3d-graphics-software-engine--gamedev-12718)
+2. [Learn OpenGL.](https://learnopengl.com/)
+3. [Let’s Build a 3D Graphics Software Engine](https://gamedevelopment.tutsplus.com/series/lets-build-a-3d-graphics-software-engine--gamedev-12718)
 
