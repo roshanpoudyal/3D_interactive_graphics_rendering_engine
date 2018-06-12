@@ -6,6 +6,7 @@
 2. Learn building math engine
 3. Learn building rendering engine
 4. Learn building physics engine
+5. Build a simple game with it
 
 ### Resources:
 1. Game Engine Architecture - Jason Gregory
