@@ -1,7 +1,9 @@
-# game_engine_3D_with_C-
+# game_engine_3D_with_C++ playground
 ## DIY project to learn building 3D game engine from scratch and hone up my skills in c++
 
-### Steps:
+## Start with:
+* [C++ Game Engine Development Tutorial - From Scratch](https://www.youtube.com/playlist?list=PLlrATfBNZ98fqE45g3jZA_hLGUrD4bo6_)
+### Get along with all of the following:
 1. Learn OpenGL
 2. Learn building math engine
 3. Learn building rendering engine
