@@ -11,7 +11,7 @@
 5. Build a simple game with it
 
 ### Resources:
-* (Learn Ogre3D, super 3D library on C++)[http://wiki.ogre3d.org/Tutorials]
+* [Learn Ogre3D, super 3D library on C++](http://wiki.ogre3d.org/Tutorials)
 * [C++ Game Engine Development Tutorial - From Scratch](https://www.youtube.com/playlist?list=PLlrATfBNZ98fqE45g3jZA_hLGUrD4bo6_)
 * Game Engine Architecture - Jason Gregory | Book
 * [Learn OpenGL.](https://learnopengl.com/)
