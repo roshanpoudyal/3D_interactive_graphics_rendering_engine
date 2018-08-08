@@ -3,6 +3,8 @@
 
 ## Start with:
 * [C++ Game Engine Development Tutorial - From Scratch](https://www.youtube.com/playlist?list=PLlrATfBNZ98fqE45g3jZA_hLGUrD4bo6_)
+* Get started with [Ogre3D tutorials](http://wiki.ogre3d.org/Tutorials). This will help you understand 3D Graphics programming as well as help you shine your C++ skills.
+
 ### Get along with all of the following:
 1. Learn OpenGL
 2. Learn building math engine
