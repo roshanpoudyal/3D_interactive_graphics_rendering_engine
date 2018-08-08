@@ -2,7 +2,7 @@
 ## DIY project to learn building 3D game engine from scratch and hone up my skills in c++
 
 ## Start with:
-* [C++ Game Engine Development Tutorial - From Scratch](https://www.youtube.com/playlist?list=PLlrATfBNZ98fqE45g3jZA_hLGUrD4bo6_)
+* [C++ Game Engine Development Tutorial - From Scratch](https://www.youtube.com/playlist?list=PLlrATfBNZ98fqE45g3jZA_hLGUrD4bo6_). It's github link is [this](https://github.com/TheCherno/Sparky).
 * Get started with [Ogre3D tutorials](http://wiki.ogre3d.org/Tutorials). This will help you understand 3D Graphics programming as well as help you shine your C++ skills.
 
 ### Get along with all of the following:
