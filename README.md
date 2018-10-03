@@ -1,4 +1,4 @@
-# 3D_interactive_graphics_rendering_engine_cum_game_engine
+# 3D Interactive Graphics Rendering Engine cum Game Engine
 ## Trying to develop a 3D interactive graphics rendering engine which can be used as game engine. Will help in improving my C++ skills
 
 ## Start with:
