@@ -1,13 +1,13 @@
 # 3D_interactive_graphics_rendering_engine_cum_game_engine
 ## Trying to develop a 3D interactive graphics rendering engine which can be used as game engine. Will help in improving my C++ skills
 
-## Helpful Guide:
-* [Learning Path for a Game Engine Programmer](https://miloyip.github.io/game-programmer/game-programmer.pdf).
-
 ## Start with:
 * A very helpful and all in one [C++ Game Engine Series](https://www.youtube.com/watch?v=JxIZbV_XjAs&list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT) to get started with, by [TheCherno](https://twitter.com/TheCherno?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). It's github link is [soon to be updated here as soon as cherno releases].
 
 * Get started with [Ogre3D tutorials](http://wiki.ogre3d.org/Tutorials). This will help you understand 3D Graphics programming as well as help you shine your C++ skills.
+
+## Helpful Guide:
+* [Learning Path for a Game Engine Programmer](https://miloyip.github.io/game-programmer/game-programmer.pdf).
 
 ### Get along with all of the following:
 1. Learn OpenGL
