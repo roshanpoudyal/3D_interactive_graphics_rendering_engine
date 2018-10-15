@@ -6,8 +6,8 @@
 
 * Get started with [Ogre3D tutorials](http://wiki.ogre3d.org/Tutorials). This will help you understand 3D Graphics programming as well as help you shine your C++ skills.
 
-## A beautiful book open sourced:
-* Photorealistic computer graphics is ubiquitous today, with applications that include entertainment—notably, movies and video games; product design; and architecture. Donald Knuth wrote “This book has deservedly won an Academy Award. I believe it should also be nominated for a Pulitzer Prize.” Read about the book [Physically Based Rendering](http://www.pbr-book.org/), which will link you to the contents of the book to [Physically Based Rendering:Contents](http://www.pbr-book.org/3ed-2018/contents.html).
+## A beautiful book open sourced - for physically based rendering:
+* Photorealistic computer graphics is ubiquitous today, with applications that include entertainment—notably, movies and video games; product design; and architecture. Donald Knuth wrote “This book has deservedly won an Academy Award. I believe it should also be nominated for a Pulitzer Prize.” Read about the book [Physically Based Rendering](http://www.pbr-book.org/), which will link you to the contents of the book to [Physically Based Rendering:Contents](http://www.pbr-book.org/3ed-2018/contents.html). And more fun - here is the [source code used by the book](https://github.com/mmp/pbrt-v3).
 
 ## Helpful Guide:
 * [Learning Path for a Game Engine Programmer](https://miloyip.github.io/game-programmer/game-programmer.pdf).
