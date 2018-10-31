@@ -2,7 +2,7 @@
 ## Trying to develop a 3D interactive graphics rendering engine which can also be used as game engine. Will help in improving my C++ skills. A C++ playground for myself.
 
 ## Start with:
-* A very helpful and all in one [C++ Game Engine Series](https://www.youtube.com/watch?v=JxIZbV_XjAs&list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT) to get started with, by [TheCherno](https://twitter.com/TheCherno?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). It's github link is [soon to be updated here as soon as cherno releases].
+* A very helpful and all in one [C++ Game Engine Series](https://www.youtube.com/watch?v=JxIZbV_XjAs&list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT) to get started with, by [TheCherno](https://twitter.com/TheCherno?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). Here is it's [github link](https://github.com/TheCherno/Hazel.git).
 
 * Get started with [Ogre3D tutorials](http://wiki.ogre3d.org/Tutorials). This will help you understand 3D Graphics programming as well as help you shine your C++ skills.
 
