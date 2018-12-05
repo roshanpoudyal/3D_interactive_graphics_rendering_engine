@@ -1,7 +1,10 @@
+
+> **If I can visualize it, I can understand it.**
+
 # 3D Interactive Graphics Rendering Engine cum Game Engine
 ## Trying to develop a 3D interactive graphics rendering engine which can also be used as game engine. Will help in improving my C++ skills. A C++ playground for myself.
 
-> **If I can visualize it, I can understand it.**
+-------------------------------------------------------
 
 ## Start with:
 
