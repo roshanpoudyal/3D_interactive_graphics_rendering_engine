@@ -32,10 +32,13 @@
 
 ------------------------------------------------
 
-### Resources:
-* [Learn Ogre3D, super 3D library on C++](http://wiki.ogre3d.org/Tutorials)
-* [C++ Game Engine Development Tutorial - From Scratch](https://www.youtube.com/playlist?list=PLlrATfBNZ98fqE45g3jZA_hLGUrD4bo6_)
-* Game Engine Architecture - Jason Gregory | Book
-* [Learn OpenGL.](https://learnopengl.com/)
-* [Let’s Build a 3D Graphics Software Engine](https://gamedevelopment.tutsplus.com/series/lets-build-a-3d-graphics-software-engine--gamedev-12718)
-* [Learn C++, Intensive Tutorial](https://www.geeksforgeeks.org/c-plus-plus/)
+### Computer Graphics Learning Resources:
+1. A set of related course on Khanacademy; [Pixar in a box](https://www.khanacademy.org/partner-content/pixar).
+2. [UC Davis MOOC on Computer Graphics](https://www.youtube.com/playlist?list=PL_w_qWAQZtAZhtzPI5pkAtcUVgmzdAP8g).
+
+------------------------------------------------
+
+## Mathematics for Computer Graphics learning resources:
+1. Learn [essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) and [essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) from [3Blue1Brown youtube channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw).
+2. Learn [linear algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) and [Computational science and engineering](https://www.youtube.com/playlist?list=PLF706B428FB7BD52C) from [Gilbert strang](http://www-math.mit.edu/~gs/).
+    - Follow his other lectures and books from [his website](http://www-math.mit.edu/~gs/).
