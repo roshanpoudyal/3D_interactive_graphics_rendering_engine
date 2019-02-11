@@ -1,14 +1,14 @@
 
 > **If I can visualize it, I can understand it.**
 
-# 3D Interactive Graphics Rendering Engine cum Game Engine
-## Trying to develop a 3D interactive graphics rendering engine which can also be used as game engine. Will help in improving my C++ skills. A C++ playground for myself.
+## 3D Interactive Graphics Rendering Engine cum Game Engine
+### Trying to develop a 3D interactive graphics rendering engine which can also be used as game engine. Will help in improving my C++ skills. A C++ playground for myself.
 
 -------------------------------------------------------
 
 ## Start with:
 
-### A beautiful book open sourced - for physically based rendering:
+#### A beautiful book open sourced - for physically based rendering:
 * Photorealistic computer graphics is ubiquitous today, with applications that include entertainment—notably, movies and video games; product design; and architecture. Donald Knuth wrote “This book has deservedly won an Academy Award. I believe it should also be nominated for a Pulitzer Prize.” Read about the book [Physically Based Rendering](http://www.pbr-book.org/), which will link you to the contents of the book to [Physically Based Rendering:Contents](http://www.pbr-book.org/3ed-2018/contents.html). And more fun - here is the [source code used by the book](https://github.com/mmp/pbrt-v3).
 
 #### Complement this book with:
@@ -24,7 +24,7 @@
 ------------------------------------------------
 
 ### Get along with all of the following:
-1. Learn OpenGL
+1. Learn [OpenGL in this playground](https://github.com/roshanpoudyal/OpenGl_playground.git).
 2. Learn building math engine
 3. Learn building rendering engine
 4. Learn building physics engine
