@@ -18,6 +18,10 @@
 
 ------------------------------------------------
 
+### [Some More resources on computer graphics](https://github.com/roshanpoudyal/OpenGl_playground#resources-on-computer-graphics-and-opengl)
+
+------------------------------------------------
+
 ## Helpful Guide:
 * [Learning Path for a Game Engine Programmer](https://miloyip.github.io/game-programmer/game-programmer.pdf).
 
