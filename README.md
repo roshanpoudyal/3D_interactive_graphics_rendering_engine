@@ -22,15 +22,7 @@
 
 ------------------------------------------------
 
-### Noteworthy open source libraries for visual computing:
-1. [CGAL](https://www.cgal.org/) is a software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library. CGAL is used in various areas needing geometric computation, such as geographic information systems, computer aided design, molecular biology, medical imaging, computer graphics, and robotics.
-2. [The Visualization Toolkit (VTK)](https://vtk.org/) is an open-source, freely available software system for 3D computer graphics, modeling, image processing, volume rendering, scientific visualization, and 2D plotting. It supports a wide variety of visualization algorithms and advanced modeling techniques, and it takes advantage of both threaded and distributed memory parallel processing for speed and scalability, respectively.
-3. [The Point Cloud Library (or PCL)](http://pointclouds.org/) is a large scale, open project [1] for 2D/3D image and point cloud processing. The PCL framework contains numerous state-of-the art algorithms including filtering, feature estimation, surface reconstruction, registration, model fitting and segmentation.
-4. [OpenCV (Open Source Computer Vision Library)](https://opencv.org/) is an open source computer vision and machine learning software library.
-5. [Dlib](http://dlib.net/) is a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems. 
-6. Althouh the libraries I mention in this point are far related to project topic, however they are noteworthy libraries under visual computing area :
-    - [The Geospatial Data Abstraction Library (GDAL)](https://www.gdal.org/) is a computer software library for reading and writing raster and vector geospatial data formats. Although it is used for GIS data I have put it here because it can come under visual computing with raster GIS data.
-    - Another, library which uses GDAL is [Orfeo Toolbox](https://www.orfeo-toolbox.org/) which also can fall under visual computing because it works on using maching learning and computer vision with GIS raster images.
+### [Noteworthy open source libraries for visual computing](https://github.com/roshanpoudyal/Visual-Computing-Markerless-Motion-Pose-Face-detection-tracking-and-3D-reconstruction#noteworthy-open-source-libraries-for-visual-computing).
 
 ------------------------------------------------
 
