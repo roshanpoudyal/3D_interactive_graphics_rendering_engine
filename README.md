@@ -98,8 +98,9 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
   - If you use installation instruction from AMD official website, then, during installation with script *amdgpu-pro-install*, do run the script as `./amdgpu-pro-install --px`, [to avoid this error](https://askubuntu.com/a/888123).
 * Google search with keywords **install amd drivers in ubuntu _[16.04|18.04]_** gives most of the required results.
 
+------------------------------------------------
 
-##### Setup an OpenGL application Software Development Kit (SDK) on Linux:
+#### Setup an OpenGL application Software Development Kit (SDK) on Linux:
 * Follow the [instruction documented here](includes/How_To_Include_Dependencies.md) to compile, build and use the libraries mentioned in learnopengl.com to develop OpenGL application SDK framework in Linux.
 
 ----------------------------------------------
