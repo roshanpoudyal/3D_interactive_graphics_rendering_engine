@@ -2,7 +2,8 @@
 > **If I can visualize it, I can understand it.**
 
 #### 3D Interactive Graphics Rendering Engine / Game Engine
-    - Develop a 3D interactive graphics rendering engine which can also be used as game engine. A C++ and OpenGL/Shader programming playground (in linux)
+    - Develop a 3D interactive graphics rendering engine which can also be used as game engine.
+    - A C++ and OpenGL/Shader programming playground (in linux)
 
 -------------------------------------------------------
 
