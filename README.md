@@ -91,7 +91,7 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
   - (Recommended) Also if you want to automatically install and update [mesa](https://www.mesa3d.org/faq.html) follow [these instructions to add it to your PPA](https://www.omgubuntu.co.uk/2018/06/mesa-18-1-1-ubuntu-18-04-ppa).
 * Then use [these instructions](https://stackoverflow.com/a/16740622) to know version and other OpenGL specific information.
 * If you have any dedicated graphics processor (NVIDIA or AMD) you may install their respective driver for linux.
-    - For AMD follow the instructions here : [Installing and Uninstalling AMDGPU driver in Linux](https://github.com/roshanpoudyal/Linux/wiki/Installing-and-Uninstalling-AMDGPU-driver-in-Linux)
+    - **For AMD follow the instructions here** : [Installing and Uninstalling AMDGPU driver in Linux](https://github.com/roshanpoudyal/Linux/wiki/Installing-and-Uninstalling-AMDGPU-driver-in-Linux)
 
 ------------------------------------------------
 
