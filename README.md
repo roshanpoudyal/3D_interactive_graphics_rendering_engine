@@ -90,13 +90,8 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 * [Steps for OpenGL Installation on Linux -> Step 2 : install all dependencies](https://medium.com/@Plimsky/how-to-install-a-opengl-environment-on-ubuntu-e3918cf5ab6c).
   - (Recommended) Also if you want to automatically install and update [mesa](https://www.mesa3d.org/faq.html) follow [these instructions to add it to your PPA](https://www.omgubuntu.co.uk/2018/06/mesa-18-1-1-ubuntu-18-04-ppa).
 * Then use [these instructions](https://stackoverflow.com/a/16740622) to know version and other OpenGL specific information.
-* If you have any dedicated graphics processor (NVIDIA or AMD) you may install their respective driver for linux. For AMD follow the steps below.
-* [How-To Install/Uninstall AMD Radeon™ Software AMDGPU-PRO Driver for Linux® on an Ubuntu (16.04) System](https://support.amd.com/en-us/kb-articles/Pages/AMDGPU-PRO-Install.aspx).
-  - during installation with script *amdgpu-pro-install*, do run the script as `./amdgpu-pro-install --px`, [to avoid this error](https://askubuntu.com/a/888123).
-* [How-To Install/Uninstall AMD Radeon™ Software AMDGPU-PRO Driver for Linux® on an Ubuntu (18.04) System](https://linuxconfig.org/how-to-install-the-latest-amd-radeon-drivers-on-ubuntu-18-04-bionic-beaver-linux). 
-  - A complementing [reference from AMD official](https://support.amd.com/en-us/kb-articles/Pages/Radeon-Software-for-Linux-18.20-Early-Preview-Release-Notes.aspx). This official link will eventually guide you to [these instructions for it's installation](https://support.amd.com/en-us/kb-articles/Pages/Installation-Instructions-for-amdgpu-Graphics-Stacks.aspx).
-  - If you use installation instruction from AMD official website, then, during installation with script *amdgpu-pro-install*, do run the script as `./amdgpu-pro-install --px`, [to avoid this error](https://askubuntu.com/a/888123).
-* Google search with keywords **install amd drivers in ubuntu _[16.04|18.04]_** gives most of the required results.
+* If you have any dedicated graphics processor (NVIDIA or AMD) you may install their respective driver for linux.
+    - For AMD follow the instructions here : [Installing and Uninstalling AMDGPU driver in Linux](https://github.com/roshanpoudyal/Linux/wiki/Installing-and-Uninstalling-AMDGPU-driver-in-Linux)
 
 ------------------------------------------------
 
