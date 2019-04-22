@@ -45,7 +45,8 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 ##### Painting with math - an Inspiration - the beauty of math and shaders :
 1. [Íñigo Quílez](https://www.iquilezles.org/) uses mathematics and shaders to create beautiful computer graphics like [this](http://www.iquilezles.org/www/articles/sdfmodeling/sdfmodeling.htm). Visit his [articles](https://www.iquilezles.org/www/index.htm) page for tutorials on the techniques he developed for his computer graphics experiments, demos, shadertoys and movies. For video tutorials, code and other useful resources visit his [productions](https://www.iquilezles.org/prods/index.htm).
     - He is one of the most profilic writers on the subject [signed distance function](https://iquilezles.org/www/articles/distfunctions/distfunctions.htm). The same concept also blogged [here](https://www.alanzucconi.com/2016/07/01/signed-distance-functions/) and [here](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/).
-2. Beautiful piece of literature on [procedeural modellling with signed distance functions](http://aka-san.halcy.de/distance_fields_prefinal.pdf). WOW!!!
+2. A [nice blog post on ray marching](http://www.michaelwalczyk.com/blog/2017/5/25/ray-marching).
+3. Beautiful piece of literature on [procedeural modellling with signed distance functions](http://aka-san.halcy.de/distance_fields_prefinal.pdf).
 
 ------------------------------------------------
 
