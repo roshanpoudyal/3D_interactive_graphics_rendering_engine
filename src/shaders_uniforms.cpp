@@ -2,6 +2,7 @@
 #include <GLFW/glfw3.h>
 
 #include <iostream>
+#include <cmath>
 
 void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 void processInput(GLFWwindow *window);
@@ -20,10 +21,10 @@ const char *vertexShaderSource = "#version 330 core\n"
     "}\0";
 const char *fragmentShaderSource = "#version 330 core\n"
     "out vec4 FragColor;\n"
-    "in vec4 vertexColor; // get the vertex shader color output as input to fragment shader \n"
+    "uniform vec4 ourColor; // we set this variable in the OpenGL code. \n"
     "void main()\n"
     "{\n"
-    "   FragColor = vertexColor; // set the out color of fragment shader as provided by vertex shader \n"
+    "   FragColor = ourColor; // set the out color of fragment shader as set for uniform variable ourColor \n"
     "}\n\0";
 
 int main()
@@ -143,9 +144,17 @@ int main()
         // ------
         glClearColor(0.2f, 0.3f, 0.3f, 1.0f);
         glClear(GL_COLOR_BUFFER_BIT);
+        
+        
 
-        // draw our first triangle
-        glUseProgram(shaderProgram);
+        // now we update the uniform color
+        float timeValue = glfwGetTime(); // we retrive the running time in seconds
+        float greenChannel = (sin(timeValue) * 0.5f) + 0.5f; // we vary the green channel in color within range 0.0 to 1.0 using sin function of timeValue
+        int uniform_vertex_color_location_ourColor = glGetUniformLocation(shaderProgram, "ourColor"); // get the location of ourColor uniform variable; uniforms are global variable
+        glUseProgram(shaderProgram); // be sure to activate the shader program before we update the uniform variable - ourColor, we do not need for accessing but for updating uniform variable we need it
+        // now we update the uniform variable ourColor
+        glUniform4f(uniform_vertex_color_location_ourColor, 0.0f, greenChannel, 0.0f, 1.0f );
+
         glBindVertexArray(VAO); // seeing as we only have a single VAO there's no need to bind it every time, but we'll do so to keep things a bit more organized
         glDrawArrays(GL_TRIANGLES, 0, 3);
         // glBindVertexArray(0); // no need to unbind it every time 
