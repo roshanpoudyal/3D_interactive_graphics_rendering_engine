@@ -79,6 +79,7 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 * [GLSL optimizations](https://www.khronos.org/opengl/wiki/GLSL_Optimizations).
 * [What is GPU computing](https://www.boston.co.uk/info/nvidia-kepler/what-is-gpu-computing.aspx).
     - Learn about [Compute Shaders](https://www.youtube.com/watch?v=0DLOJPSxJEg) : how they work and why to use them.
+        - Here is [wiki from Khronos group about compute shaders](https://www.khronos.org/opengl/wiki/Compute_Shader).
     - Resources for parallel and GPU computing with OpenCL.
         - [OpenCL learning resources and much more from Khronos Group](https://github.com/KhronosGroup/Khronosdotorg/blob/master/api/opencl/resources.md#learning-opencl).
         - [OpenCL user guide](http://developer.amd.com/wordpress/media/2013/12/AMD_OpenCL_Programming_User_Guide2.pdf).
