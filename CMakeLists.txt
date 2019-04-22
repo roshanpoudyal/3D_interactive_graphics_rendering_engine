@@ -22,8 +22,9 @@ add_subdirectory(includes/glfw) # add glfw subdirectory which contains cmake fil
 include_directories(includes/)
 
 file(GLOB VENDORS_SOURCES src/glad.c) # sources from dependency libraries
-file(GLOB PROJECT_HEADERS header/*.hpp) # headers for this project
-file(GLOB PROJECT_SOURCES src/*.cpp) # sources for this project
+file(GLOB PROJECT_HEADERS header/*.h) # headers for this project
+file(GLOB PROJECT_SOURCES src/*/src/*.cpp) # sources for this project
+file(GLOB PROJECT_SHADERS src/*/shaders/*) # shaders for this project
 
 # set chapters and sub chapters to be used for generating specific binaries later
 # ---> (ref.B)
@@ -50,7 +51,7 @@ set(getting_started
     shaders_ins_outs
     shaders_uniforms
     shaders_more_attributes
-#    shaders_class
+    shaders_more_attributes_source_using_shader_class
 #    textures
 #    textures_combined
 #    textures_exercise2
@@ -73,7 +74,7 @@ set(getting_started
 foreach(CHAPTER ${CHAPTERS})
     foreach(DEMO ${${CHAPTER}})
         set(NAME "${CHAPTER}_${DEMO}")
-        add_executable(${NAME} src/${DEMO}.cpp ${PROJECT_HEADERS} ${VENDORS_SOURCES})
+        add_executable(${NAME} src/${CHAPTER}_chapter/src/${DEMO}.cpp ${PROJECT_HEADERS} ${VENDORS_SOURCES})
         target_link_libraries(${NAME} glfw ${GLFW_LIBRARIES} ${GLAD_LIBRARIES})
     endforeach(DEMO)
 endforeach(CHAPTER)
