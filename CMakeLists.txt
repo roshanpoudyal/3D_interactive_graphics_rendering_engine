@@ -49,7 +49,7 @@ set(getting_started
     hello_triangle_exercise3
     shaders_ins_outs
     shaders_uniforms
-#    shaders_interpolation
+    shaders_more_attributes
 #    shaders_class
 #    textures
 #    textures_combined
