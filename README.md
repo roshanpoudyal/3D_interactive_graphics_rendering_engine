@@ -89,10 +89,10 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 #### Getting Started with OpenGL application development on Linux:
 
 1. **Setup OpenGL environment on Linux**:
-* Follow the instructions documented here for [setting up OpenGL environment on Linux](https://github.com/roshanpoudyal/Linux/wiki/Setting-up-OpenGL-environment-on-Linux).
+    - Follow the instructions documented here for [setting up OpenGL environment on Linux](https://github.com/roshanpoudyal/Linux/wiki/Setting-up-OpenGL-environment-on-Linux).
 
 2. **Setup an OpenGL application Software Development Kit (SDK) on Linux**:
-* Follow the [instruction documented here](includes/How_To_Include_Dependencies.md) to compile, build and use the libraries mentioned in learnopengl.com to develop OpenGL application SDK framework in Linux.
+    - Follow the [instruction documented here](includes/How_To_Include_Dependencies.md) to compile, build and use the libraries mentioned in learnopengl.com to develop OpenGL application SDK framework in Linux.
 
 ----------------------------------------------
 
