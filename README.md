@@ -28,11 +28,16 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 
 ------------------------------------------------
 
-#### Computer Graphics Learning Resources::
+#### Computer Graphics Learning Resources:
 * A very helpful and all in one [C++ Game Engine Series](https://www.youtube.com/watch?v=JxIZbV_XjAs&list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT) to get started with, by [TheCherno](https://twitter.com/TheCherno?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). Here is it's [github link](https://github.com/TheCherno/Hazel.git).
 * A set of related course on Khanacademy; [Pixar in a box](https://www.khanacademy.org/partner-content/pixar).
 * [UC Davis MOOC on Computer Graphics](https://www.youtube.com/playlist?list=PL_w_qWAQZtAZhtzPI5pkAtcUVgmzdAP8g).
 * Get started with [Ogre3D tutorials](http://wiki.ogre3d.org/Tutorials). This will help you understand 3D Graphics programming as well as help you shine your C++ skills.
+
+------------------------------------------------
+
+#### C/C++ learning resources:
+1. [Introduction to C and C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013/) a course from MIT OCW.
 
 ------------------------------------------------
 
