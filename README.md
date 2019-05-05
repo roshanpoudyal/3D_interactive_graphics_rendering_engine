@@ -7,7 +7,7 @@
 
 -------------------------------------------------------
 
-### Resources on Computer Graphics and OpenGL:
+#### Resources on Computer Graphics and OpenGL:
 
 ##### The red book of OpenGL
 * [The red book of OpenGL](http://www.opengl-redbook.com/). Here is the [online version](https://www.glprogramming.com/red/) of this book. Is also available [here](https://www.cs.utexas.edu/users/fussell/courses/cs354/handouts/Addison.Wesley.OpenGL.Programming.Guide.8th.Edition.Mar.2013.ISBN.0321773039.pdf).
@@ -20,18 +20,17 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 ##### Another great piece of literature on computer graphics:
 * [Real Time Rendering](http://www.realtimerendering.com/) is a legend which focuses on modern techniques used to generate synthetic three-dimensional images in a fraction of a second. With the advent of programmable shaders, a wide variety of new algorithms have arisen and evolved over the past few years. This edition discusses current, practical rendering methods used in games and other applications. It also presents a solid theoretical framework and relevant mathematics for the field of interactive computer graphics, all in an approachable style. They also list a helluva lot of [graphics books resources](http://www.realtimerendering.com/books.html) except their own book on their website. And here is their [blog](http://www.realtimerendering.com/blog/).
 
-##### Great online resource for Computer Graphics techniques &/on GPU programming from NVIDIA - [GPU Gems Series](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html).
-
-##### Another bulk of Computer Graphics resources from [SigGraph](https://www.siggraph.org/about/about-acm-siggraph) - [Advances in Real-Time Rendering in 3D Graphics and Games](http://advances.realtimerendering.com/).
-
-##### A course on photorealistic rendering, ray tracing and global illumination at the TU Wien. The entire course is now available [here on YouTube as a playlist](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi) at [Two minutes paper](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg) youtube channel. This channel publishes videos on papers from field of visual computing (AI, computer graphics, etc.).
-
 ------------------------------------------------
 
 #### Computer Graphics Learning Resources:
 * A very helpful and all in one [C++ Game Engine Series](https://www.youtube.com/watch?v=JxIZbV_XjAs&list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT) to get started with, by [TheCherno](https://twitter.com/TheCherno?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). Here is it's [github link](https://github.com/TheCherno/Hazel.git).
 * A set of related course on Khanacademy; [Pixar in a box](https://www.khanacademy.org/partner-content/pixar).
 * [UC Davis MOOC on Computer Graphics](https://www.youtube.com/playlist?list=PL_w_qWAQZtAZhtzPI5pkAtcUVgmzdAP8g).
+* A course on photorealistic rendering, ray tracing and global illumination at the TU Wien. The entire course is now available [here on YouTube as a playlist](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi) at [Two minutes paper](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg) youtube channel. This channel publishes videos on papers from field of visual computing (AI, computer graphics, etc.).
+* A bulk of Computer Graphics resources from [SigGraph](https://www.siggraph.org/about/about-acm-siggraph) - [Advances in Real-Time Rendering in 3D Graphics and Games](http://advances.realtimerendering.com/). Additionally,
+    - [SIGGRAPH University](https://www.youtube.com/playlist?list=PLUPhVMQuDB_aWSKj7L_-3Ot_nxBze_YMy) has a youtube playlist which features recorded versions of popular Courses from the annual SIGGRAPH Conference.
+    - About Physics based animation from ACMSIGGRAPH- [Physics based animation part 1](https://youtu.be/zjmiV1D_Kw8) and [Physics based animation part 2](https://youtu.be/IIxXUpGSizY).
+* Great online resource for Computer Graphics techniques &/on GPU programming from NVIDIA - [GPU Gems Series](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html).
 * Get started with [Ogre3D tutorials](http://wiki.ogre3d.org/Tutorials). This will help you understand 3D Graphics programming as well as help you shine your C++ skills.
 
 ------------------------------------------------
