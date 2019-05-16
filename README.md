@@ -55,16 +55,21 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 ------------------------------------------------
 
 #### Noteworthy open source libraries for developing C++ OpenGL applications:
-1. [Dear **ImGui**](https://github.com/ocornut/imgui) is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
-2. [spdlog](https://github.com/gabime/spdlog) is very fast, header only, C++ logging library.
-3. [Open Asset Import Library (assimp)](https://github.com/assimp/assimp) : A library to import and export various 3d-model-formats including scene-post-processing to generate missing render data.
-4. [GLAD](https://github.com/ValtoLibraries/GLAD) is a C++ (multi-Language) GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs. Here is the [online GLAD generator](https://glad.dav1d.de/).
-5. [GLFW](https://www.glfw.org/index.html) is an Open Source, multi-platform library for OpenGL, OpenGL ES and Vulkan development on the desktop. It provides a simple API for creating windows, contexts and surfaces, receiving input and events.
-6. [OpenGL Mathematics (GLM)](https://glm.g-truc.net/0.9.9/index.html) is a header only C++ mathematics library for graphics software based on the [OpenGL Shading Language (GLSL) specifications](https://www.khronos.org/registry/OpenGL/specs/gl/GLSLangSpec.4.50.pdf). Here is [its github repository](https://github.com/g-truc/glm).
+* Links and resources:
+    - [OpenGL Software Development Kit](https://www.opengl.org/sdk/) Documentation, Sample Code, Libraries, and Tools for creating OpenGL-based Applications.
+        - Here you'll find some of the most valuable resources available to OpenGL developers, all in one place. Use the menu above to navigate to each contribution. Revisit often, as there will be new contributions coming online all the time! 
+
+* Specific Libraries :
+    - [Dear **ImGui**](https://github.com/ocornut/imgui) is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
+    - [spdlog](https://github.com/gabime/spdlog) is very fast, header only, C++ logging library.
+    - [Open Asset Import Library (assimp)](https://github.com/assimp/assimp) : A library to import and export various 3d-model-formats including scene-post-processing to generate missing render data.
+    - [GLAD](https://github.com/ValtoLibraries/GLAD) is a C++ (multi-Language) GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs. Here is the [online GLAD generator](https://glad.dav1d.de/).
+    - [GLFW](https://www.glfw.org/index.html) is an Open Source, multi-platform library for OpenGL, OpenGL ES and Vulkan development on the desktop. It provides a simple API for creating windows, contexts and surfaces, receiving input and events.
+    - [OpenGL Mathematics (GLM)](https://glm.g-truc.net/0.9.9/index.html) is a header only C++ mathematics library for graphics software based on the [OpenGL Shading Language (GLSL) specifications](https://www.khronos.org/registry/OpenGL/specs/gl/GLSLangSpec.4.50.pdf). Here is [its github repository](https://github.com/g-truc/glm).
 
 ------------------------------------------------
 
-### OpenGL and Shaders Learning Resources:
+### OpenGL Learning Resources:
 * [Guide as learning Path for a Game Engine Programmer](https://miloyip.github.io/game-programmer/game-programmer.pdf).
 * [Great Start for learning OpenGL.](https://learnopengl.com/Getting-started/OpenGL)
 * [Wow! A book of Shaders, Learn Shading Language. It has a whole content from shading, 3D Graphics, simulation etc.](https://thebookofshaders.com/)
@@ -77,16 +82,25 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 * [Learn Computer Graphics using **WebGL**](http://webgl.brown37.net/index.html) : This interactive textbook will teach you how to create interactive 3D computer graphics content that can be viewed and manipulated in a web browser. As you learn computer graphic concepts you will apply them using WebGL – a version of OpenGL (Open Graphics Library) that works in most web browsers.
 * Nice conceptual [articles on computer graphics in codinglabs website](http://www.codinglabs.net/article_world_view_projection_matrix.aspx).
 * [Computer Graphics Tutorial](https://www.tutorialspoint.com/computer_graphics/) from tutorialspoint gives you hands on experience with basic and advanced concepts and their implementation.
-* [Efficient shader tricks](http://web.engr.oregonstate.edu/~mjb/cs519/Projects/Papers/ShaderTricks.pdf).
-* [Shader tricks from ATI & power of maths etc.](https://developer.amd.com/wordpress/media/2012/10/03_Clever_Shader_Tricks.pdf).
-* [Avoiding shader conditionals](http://theorangeduck.com/page/avoiding-shader-conditionals)
-* [GLSL optimizations](https://www.khronos.org/opengl/wiki/GLSL_Optimizations).
+
+------------------------------------------------
+
+### GPU programming and Shaders Learning Resources:
 * [What is GPU computing](https://www.boston.co.uk/info/nvidia-kepler/what-is-gpu-computing.aspx).
     - Learn about [Compute Shaders](https://www.youtube.com/watch?v=0DLOJPSxJEg) : how they work and why to use them.
         - Here is [wiki from Khronos group about compute shaders](https://www.khronos.org/opengl/wiki/Compute_Shader).
     - Resources for parallel and GPU computing with OpenCL.
         - [OpenCL learning resources and much more from Khronos Group](https://github.com/KhronosGroup/Khronosdotorg/blob/master/api/opencl/resources.md#learning-opencl).
         - [OpenCL user guide](http://developer.amd.com/wordpress/media/2013/12/AMD_OpenCL_Programming_User_Guide2.pdf).
+* Introducing [GPUOpen](https://gpuopen.com/) :
+    - an AMD initiative designed to enable developers to create ground-breaking PC games, computer generated imagery and GPU computing applications for great performance and lifelike experiences using no cost and open development tools and software.
+    - [GPUOpen-Tools](https://github.com/GPUOpen-Tools) (git repository) is a comprehensive collection of visual effects, productivity tools, and other content at no cost from GPUOpen initiative from AMD.
+        - [CodeXL](https://gpuopen.com/compute-product/codexl/) is one such tool from GPUOpen initative. It enables developers to harness the benefits of GPUs and APUs. Combine  C/C++ debugging with comprehensive GPU debugging of OpenCL & OpenGL API calls. Peek into compute and graphic memory objects, monitor their contents, and detect memory leaks and code paths that caused it.
+            - [CodeXL's github repository](https://github.com/GPUOpen-Tools/CodeXL).
+* [Efficient shader tricks](http://web.engr.oregonstate.edu/~mjb/cs519/Projects/Papers/ShaderTricks.pdf).
+* [Shader tricks from ATI & power of maths etc.](https://developer.amd.com/wordpress/media/2012/10/03_Clever_Shader_Tricks.pdf).
+* [Avoiding shader conditionals](http://theorangeduck.com/page/avoiding-shader-conditionals)
+* [GLSL optimizations](https://www.khronos.org/opengl/wiki/GLSL_Optimizations).
 
 ------------------------------------------------
 
