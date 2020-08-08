@@ -119,6 +119,7 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
     - [Raylib wiki](https://github.com/raysan5/raylib/wiki). For example tutorial on getting started on linux:
         - [Working with Raylib on Linux](https://github.com/raysan5/raylib/wiki/Working-on-GNU-Linux).
         - [VSCode IDE configuration](https://github.com/raysan5/raylib/wiki/Using-raylib-in-VSCode).
+    - You could also later integrate it with libraries like [OpenCV for image processing and computer vision](https://opencv.org/) or [Dlib](http://dlib.net/) or any other libraries for any functionalities you would require in future.
 ------------------------------------------------
 
 #### Getting Started with OpenGL application development on Linux:
