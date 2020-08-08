@@ -60,11 +60,7 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
         - Here you'll find some of the most valuable resources available to OpenGL developers, all in one place. Use the menu above to navigate to each contribution. Revisit often, as there will be new contributions coming online all the time! 
 
 * Specific Libraries :
-    - [**Raylib**](https://www.raylib.com/) is a simple and easy-to-use library to enjoy game programming.
-            - raylib is a programming library to enjoy games programming; no fancy interface, no visual helpers, no auto-debugging... just coding in the most pure spartan-programmers way. It's specially well suited for prototyping, tooling, graphical applications, embedded systems and education.
-            - It is a very modular library, defined by a small number of specific and self-contained modules. Every module is organized by its main functionality (avoiding hundreds of modules depending on other modules, like other C libraries).
-                    - See about its [architecture here](https://github.com/raysan5/raylib/wiki/raylib-architecture).  Its not a game engine, BUT, you can use it as a base library to prototyping and tooling graphical applications/tools or game engine or games on top of it.
-            - It is writtent in C but has a very nice [C++ bindings](https://github.com/robloach/raylib-cpp). So you can start development in C++. 
+    - [**Raylib**](https://www.raylib.com/) is a simple and easy-to-use library to enjoy game programming. [Get to know more about it](https://github.com/roshanpoudyal/3D_interactive_graphics_rendering_engine/blob/master/README.md#getting-started-with-developing-graphical-application-or-game-engine-with-raylib-has-very-good-c-bindings-as-base-library).
     - [Dear **ImGui**](https://github.com/ocornut/imgui) is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
     - [spdlog](https://github.com/gabime/spdlog) is very fast, header only, C++ logging library.
     - [Open Asset Import Library (assimp)](https://github.com/assimp/assimp) : A library to import and export various 3d-model-formats including scene-post-processing to generate missing render data.
