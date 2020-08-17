@@ -1,4 +1,3 @@
-
 > **If I can visualize it, I can understand it.**
 
 #### 3D Interactive Graphics Rendering Engine / Game Engine
@@ -32,6 +31,10 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
     - About Physics based animation from ACMSIGGRAPH- [Physics based animation part 1](https://youtu.be/zjmiV1D_Kw8) and [Physics based animation part 2](https://youtu.be/IIxXUpGSizY).
 * Great online resource for Computer Graphics techniques &/on GPU programming from NVIDIA - [GPU Gems Series](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html).
 * Get started with [Ogre3D tutorials](http://wiki.ogre3d.org/Tutorials). This will help you understand 3D Graphics programming as well as help you shine your C++ skills.
+* You can also get started with the **[Graphics Programming Projects](http://graphicscodex.com/projects/projects/)** which uses [G3D](http://casual-effects.com/g3d/www/index.html#description) as the source code to get started with.
+    - You can surf the [projects](http://graphicscodex.com/projects/projects/#projects) listed in the library.
+        - Here is an [example project - Cubes](http://graphicscodex.com/projects/cubes/index.html).
+    - To see in which order the projects should be completed see these [dependencies description](http://graphicscodex.com/projects/projects/#dependencies). Looks like there are no strict dependencies.
 
 ------------------------------------------------
 
@@ -61,6 +64,7 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 
 * Specific Libraries :
     - [**Raylib**](https://www.raylib.com/) is a simple and easy-to-use library to enjoy game programming. [Get to know more about it](https://github.com/roshanpoudyal/3D_interactive_graphics_rendering_engine/blob/master/README.md#getting-started-with-developing-graphical-application-or-game-engine-with-raylib-has-very-good-c-bindings-as-base-library).
+    - [**The G3D Innovation Engine**](http://casual-effects.com/g3d/www/index.html#description) is a commercial-grade **C++ 3D engine** available as Open Source. Its design emphasizes rapid prototyping and innovation, particularly of rendering and game algorithms. G3D provides a set of routines and structures so common that they are needed in almost every graphics program. [Get to know more about it here]().
     - [Dear **ImGui**](https://github.com/ocornut/imgui) is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
     - [spdlog](https://github.com/gabime/spdlog) is very fast, header only, C++ logging library.
     - [Open Asset Import Library (assimp)](https://github.com/assimp/assimp) : A library to import and export various 3d-model-formats including scene-post-processing to generate missing render data.
@@ -121,6 +125,22 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
         - [VSCode IDE configuration](https://github.com/raysan5/raylib/wiki/Using-raylib-in-VSCode).
     - You could also later integrate it with libraries like [OpenCV for image processing and computer vision](https://opencv.org/) or [Dlib](http://dlib.net/) or any other libraries for any functionalities you would require in future.
 ------------------------------------------------
+
+### Getting started with developing any graphical application with **The G3D** :
+> [Description :](http://casual-effects.com/g3d/www/index.html#description) The G3D Innovation Engine is a commercial-grade **C++ 3D engine** available as Open Source. Its design emphasizes rapid prototyping and innovation, particularly of rendering and game algorithms. G3D provides a set of routines and structures so common that they are needed in almost every graphics program. G3D is a carefully designed, feature-rich base on which to prototype your 3D application. It includes [contributions](https://casual-effects.com/g3d/G3D10/build/manual/contributors.html) from professional game developers, CAD and DCC developers, students, industry researchers, and professors. **Any 3D graphical application imaginable is possible with The G3D**.
+1. Here is a nice [overview](https://casual-effects.com/g3d/G3D10/build/manual/guideoverview.html) of G3D. Here are the [features](http://casual-effects.com/g3d/www/index.html#features) of G3D. Some [external overview resource](https://www.youtube.com/watch?v=QrHQXFGkHTc).
+2. [Source code](http://casual-effects.com/g3d/www/index.html#sourcecode) is available via svn repositories. A [minimal download](http://casual-effects.com/g3d/www/index.html#sourcecode/minimumdownload) is also available with just the engine and without sample game assets.
+    1. Here you will find [description on contents of this library](http://casual-effects.com/g3d/www/index.html#license/library).
+3. G3D is well [documented](http://casual-effects.com/g3d/www/index.html#documentation) with :
+    1. [API documentation](http://casual-effects.com/g3d/G3D10/build/manual/apiindex.html?).
+    2. Here is an overview of [API concepts](https://casual-effects.com/g3d/G3D10/build/manual/guideconcepts.html), which also has got nice paragraph on saying how to get started with a sample starter project. See [this section](https://casual-effects.com/g3d/G3D10/build/manual/guideconcepts.html#g3dframework) and [this section](https://casual-effects.com/g3d/G3D10/build/manual/guideconcepts.html#oglframework) on getting started with sample project.
+    3. [Installation instructions for Linux](https://casual-effects.com/g3d/G3D10/build/manual/readme.md.html#linux).
+4. You can also get started with the **[Graphics Programming Projects](http://graphicscodex.com/projects/projects/)** which uses G3D as the source code to get started with.
+    1. You can surf the [projects](http://graphicscodex.com/projects/projects/#projects) listed in the library.
+        - Here is an [example project - Cubes](http://graphicscodex.com/projects/cubes/index.html).
+    2. To see in which order the projects should be completed see these [dependencies description](http://graphicscodex.com/projects/projects/#dependencies). Looks like there are no strict dependencies.
+    
+-----------------------------------------------------
 
 #### Getting Started with OpenGL application development on Linux:
 
