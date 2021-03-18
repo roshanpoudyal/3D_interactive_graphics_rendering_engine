@@ -128,7 +128,7 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 
 ------------------------------------------------
 
-#### Getting started with developing graphical application with **Raylib** (has very good C++ bindings) as base library:
+#### Getting started on developing graphical application with **Raylib** (has very good C++ bindings) as base library:
 * [**Raylib**](https://www.raylib.com/) is a simple and easy-to-use library to enjoy game programming.
     - raylib is a programming library to enjoy games programming; no fancy interface, no visual helpers, no auto-debugging... just coding in the most pure spartan-programmers way. **It's specially well suited for prototyping and tooling graphical applications, game engines, games etc.**
     - It is a very modular library, defined by a small number of specific and self-contained modules. Every module is organized by its main functionality (avoiding hundreds of modules depending on other modules, like other C libraries).
@@ -136,6 +136,7 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
         - Repeating... **Its NOT a game engine, BUT, you can use it as a base library to prototyping and tooling graphical applications/tools or game engine or games on top of it.**
         - It is writtent in C but has a very nice [C++ bindings](https://github.com/robloach/raylib-cpp). So you can start development in C++.
     - See its [examples](https://www.raylib.com/examples.html). Some interesting examples:
+        - [Raylib Shader programming and loading shader example - A CUBE OF DANCING CUBES!](https://www.raylib.com/examples/web/shaders/loader.html?name=shaders_rlgl_mesh_instanced).
         - [Raylib creative coding inspiration 1 - waving cubes](https://www.raylib.com/examples/web/models/loader.html?name=models_waving_cubes).
         - [Raylib creative coding inspiration 2 - heightmap](https://www.raylib.com/examples/web/models/loader.html?name=models_heightmap).
         - [Raylib creative coding inspiration 3 - particle effects](https://www.raylib.com/examples/web/textures/loader.html?name=textures_particles_blending).
