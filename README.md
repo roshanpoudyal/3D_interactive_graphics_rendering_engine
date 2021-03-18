@@ -83,7 +83,7 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 
 ------------------------------------------------
 
-### OpenGL Learning Resources:
+#### OpenGL Learning Resources:
 * [Guide as learning Path for a Game Engine Programmer](https://miloyip.github.io/game-programmer/game-programmer.pdf).
 * [Great Start for learning OpenGL.](https://learnopengl.com/Getting-started/OpenGL)
 * [Wow! A book of Shaders, Learn Shading Language. It has a whole content from shading, 3D Graphics, simulation etc.](https://thebookofshaders.com/)
@@ -99,7 +99,7 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 
 ------------------------------------------------
 
-### GPU programming, Shader Programming, OpenCL Learning Resources:
+#### GPU programming, Shader Programming, OpenCL Learning Resources:
 * [Hands On OpenCL](https://handsonopencl.github.io/) : An open source two-day lecture course for teaching and learning OpenCL. Here is the [github link](https://github.com/HandsOnOpenCL).
 * [OpenCL technical overview](https://www.youtube.com/watch?v=aKtpZuokeEk&list=PLVk9nlso0x0K0pRMzEj0-kbidFBxohTTk).
    - [OpenCL webinars and tutorials](https://www.youtube.com/playlist?list=PLVk9nlso0x0KnqII22naRMXj_8zAmHKnw).
@@ -128,7 +128,7 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 
 ------------------------------------------------
 
-### Getting started with developing graphical application or game engine with **Raylib** (has very good C++ bindings) as base library:
+#### Getting started with developing graphical application with **Raylib** (has very good C++ bindings) as base library:
 * [**Raylib**](https://www.raylib.com/) is a simple and easy-to-use library to enjoy game programming.
     - raylib is a programming library to enjoy games programming; no fancy interface, no visual helpers, no auto-debugging... just coding in the most pure spartan-programmers way. **It's specially well suited for prototyping and tooling graphical applications, game engines, games etc.**
     - It is a very modular library, defined by a small number of specific and self-contained modules. Every module is organized by its main functionality (avoiding hundreds of modules depending on other modules, like other C libraries).
@@ -145,7 +145,7 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
     - You could also later integrate it with libraries like [OpenCV for image processing and computer vision](https://opencv.org/) or [Dlib](http://dlib.net/) or any other libraries for any functionalities you would require in future.
 ------------------------------------------------
 
-### Getting started with developing any graphical application with **The G3D** :
+#### Getting started with developing any graphical application with **The G3D** :
 > [Description :](http://casual-effects.com/g3d/www/index.html#description) The G3D Innovation Engine is a commercial-grade **C++ 3D engine** available as Open Source. Its design emphasizes rapid prototyping and innovation, particularly of rendering and game algorithms. G3D provides a set of routines and structures so common that they are needed in almost every graphics program. G3D is a carefully designed, feature-rich base on which to prototype your 3D application. It includes [contributions](https://casual-effects.com/g3d/G3D10/build/manual/contributors.html) from professional game developers, CAD and DCC developers, students, industry researchers, and professors. **Any 3D graphical application imaginable is possible with The G3D**.
 1. Here is a nice [overview](https://casual-effects.com/g3d/G3D10/build/manual/guideoverview.html) of G3D. Here are the [features](http://casual-effects.com/g3d/www/index.html#features) of G3D. Some [external overview resource](https://www.youtube.com/watch?v=QrHQXFGkHTc).
 2. [Source code](http://casual-effects.com/g3d/www/index.html#sourcecode) is available via svn repositories. A [minimal download](http://casual-effects.com/g3d/www/index.html#sourcecode/minimumdownload) is also available with just the engine and without sample game assets.
