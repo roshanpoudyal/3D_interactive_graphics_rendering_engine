@@ -1,9 +1,17 @@
+#### Playground to practice GPU, OpenCL, OpenGL, Shader Programming.
+
 > **If I can visualize it, I can understand it.**
 
-#### 3D Interactive Graphics Rendering Engine / Game Engine
+#### 3D Interactive Graphics Rendering Engine
     - Develop a 3D interactive graphics rendering engine which can also be used as game engine.
     - A C++ and OpenGL/Shader programming playground (in linux)
 
+### Motivation
+1. Get creative with visual effects and particle effects using shader programming.
+1. To practice Shader programming in OpenGL/OpenCL, to understand GPU programming and architecture.
+1. Hope to increase mathematical concepts understanding with shader programming.
+1. Learn parallel computaiton with GPU architecture.
+1. Learn to implement algorithms in GPU to leverage its architecture.
 -------------------------------------------------------
 
 #### Resources on Computer Graphics and OpenGL:
@@ -91,13 +99,23 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 
 ------------------------------------------------
 
-### GPU programming and Shaders Learning Resources:
-* [What is GPU computing](https://www.boston.co.uk/info/nvidia-kepler/what-is-gpu-computing.aspx).
-    - Learn about [Compute Shaders](https://www.youtube.com/watch?v=0DLOJPSxJEg) : how they work and why to use them.
-        - Here is [wiki from Khronos group about compute shaders](https://www.khronos.org/opengl/wiki/Compute_Shader).
-    - Resources for parallel and GPU computing with OpenCL.
+### GPU programming, Shader Programming, OpenCL Learning Resources:
+* [Hands On OpenCL](https://handsonopencl.github.io/) : An open source two-day lecture course for teaching and learning OpenCL. Here is the [github link](https://github.com/HandsOnOpenCL).
+* [OpenCL technical overview](https://www.youtube.com/watch?v=aKtpZuokeEk&list=PLVk9nlso0x0K0pRMzEj0-kbidFBxohTTk).
+   - [OpenCL webinars and tutorials](https://www.youtube.com/playlist?list=PLVk9nlso0x0KnqII22naRMXj_8zAmHKnw).
+   - [OpenCL on demand webinars](https://www.youtube.com/playlist?list=PLVk9nlso0x0LoT7P-GVWEASBSS750gLn6).
+   - [Developer Central AMD](https://www.youtube.com/user/DevCentralSupport/playlists).
+* Resources for parallel and GPU computing with OpenCL.
         - [OpenCL learning resources and much more from Khronos Group](https://github.com/KhronosGroup/Khronosdotorg/blob/master/api/opencl/resources.md#learning-opencl).
         - [OpenCL user guide](http://developer.amd.com/wordpress/media/2013/12/AMD_OpenCL_Programming_User_Guide2.pdf).
+* Learn about [Compute Shaders](https://www.youtube.com/watch?v=0DLOJPSxJEg) : how they work and why to use them.
+        - Here is [wiki from Khronos group about compute shaders](https://www.khronos.org/opengl/wiki/Compute_Shader).
+* [OpenCL tutorials - David Gohara](https://www.youtube.com/playlist?list=PLTfYiv7-a3l7mYEdjk35wfY-KQj5yVXO2).
+* [The C++ for OpenCL Programming Language](https://www.youtube.com/watch?v=SR5E3hKVh14).
+* [What is GPU computing](https://www.boston.co.uk/info/nvidia-kepler/what-is-gpu-computing.aspx).
+    - [Ashot Vardanian — Dive into the general purpose GPU programming](https://www.youtube.com/watch?v=AA4RI6o0h1U).
+    - [The Illusion of Motion: Making Magic with Textures in the Vertex Shader](https://www.youtube.com/watch?v=EUTE1SoOGrk).
+    - [CppCon 2019: Gordon Brown “Efficient GPU Programming with Modern C++”](https://www.youtube.com/watch?v=8pJS3n4MITM).
 * Introducing [GPUOpen](https://gpuopen.com/) :
     - an AMD initiative designed to enable developers to create ground-breaking PC games, computer generated imagery and GPU computing applications for great performance and lifelike experiences using no cost and open development tools and software.
     - [GPUOpen-Tools](https://github.com/GPUOpen-Tools) (git repository) is a comprehensive collection of visual effects, productivity tools, and other content at no cost from GPUOpen initiative from AMD.
