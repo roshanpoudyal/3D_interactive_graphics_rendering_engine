@@ -85,7 +85,9 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 
 #### OpenGL Learning Resources:
 * [Guide as learning Path for a Game Engine Programmer](https://miloyip.github.io/game-programmer/game-programmer.pdf).
-* [Great Start for learning OpenGL.](https://learnopengl.com/Getting-started/OpenGL)
+* [Great Start for learning OpenGL @LearnOpenGL.COM.](https://learnopengl.com/Getting-started/OpenGL).
+    - Here is the [github link](https://github.com/JoeyDeVries/LearnOpenGL) associated with this tutorial.
+    - [Glitter](https://github.com/Polytonic/Glitter) is a dead simple boilerplate for OpenGL, intended as a starting point for the tutorials on learnopengl.com and open.gl.
 * [Wow! A book of Shaders, Learn Shading Language. It has a whole content from shading, 3D Graphics, simulation etc.](https://thebookofshaders.com/)
 * [OpenGL introduction from TheCherno Project - youtube playlist](https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2).
 * [Another place to learn openGL.](http://www.opengl-tutorial.org/beginners-tutorials/)
