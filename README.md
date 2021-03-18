@@ -172,15 +172,15 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 2. **Setup an OpenGL application Software Development Kit (SDK) on Linux**:
     - Follow the [instruction documented here](includes/How_To_Include_Dependencies.md) to compile, build and use the libraries mentioned in learnopengl.com to develop OpenGL application SDK framework in Linux.
 
-----------------------------------------------
-
-##### How to build this OpenGL application :
+3. How to build this OpenGL application :
 * It should be already noted that we use `cmake` and `make` to compile and build our application. Following easy to follow steps guide the same:
     1. Create a `build` folder in root directory of our project : `mkdir build`
     2. Enter this `build` folder : `cd build`
     3. Run `cmake` pointing the correct CMakeLists.txt file in root directory of our project to compile it : `cmake ..`
     4. Run `make` to build our project : `make`
     5. You will get the executables built in this `build` folder.
+
+##### **Note that** you can also use [Glitter](https://github.com/Polytonic/Glitter) to get started with OpenGL, it is is a dead simple boilerplate for OpenGL, intended as a starting point for the tutorials on learnopengl.com and open.gl.
     
 ------------------------------------------------
 
