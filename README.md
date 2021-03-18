@@ -22,6 +22,7 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 ------------------------------------------------
 
 #### Computer Graphics Learning Resources:
+* [Cem Yuksel's Introduction to Computer Graphics](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh).
 * A very helpful and all in one [C++ Game Engine Series](https://www.youtube.com/watch?v=JxIZbV_XjAs&list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT) to get started with, by [TheCherno](https://twitter.com/TheCherno?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). Here is it's [github link](https://github.com/TheCherno/Hazel.git).
 * A set of related course on Khanacademy; [Pixar in a box](https://www.khanacademy.org/partner-content/pixar).
 * [UC Davis MOOC on Computer Graphics](https://www.youtube.com/playlist?list=PL_w_qWAQZtAZhtzPI5pkAtcUVgmzdAP8g).
