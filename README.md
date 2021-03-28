@@ -25,7 +25,9 @@
 And more fun - here is the [source code used by the book](https://github.com/mmp/pbrt-v3).
 
 ##### Another great piece of literature on computer graphics:
-* [Real Time Rendering](http://www.realtimerendering.com/) is a legend which focuses on modern techniques used to generate synthetic three-dimensional images in a fraction of a second. With the advent of programmable shaders, a wide variety of new algorithms have arisen and evolved over the past few years. This edition discusses current, practical rendering methods used in games and other applications. It also presents a solid theoretical framework and relevant mathematics for the field of interactive computer graphics, all in an approachable style. They also list a helluva lot of [graphics books resources](http://www.realtimerendering.com/books.html) except their own book on their website. And here is their [blog](http://www.realtimerendering.com/blog/).
+* [Real Time Rendering](http://www.realtimerendering.com/) is a legend which focuses on modern techniques used to generate synthetic three-dimensional images in a fraction of a second. With the advent of programmable shaders, a wide variety of new algorithms have arisen and evolved over the past few years. This edition discusses current, practical rendering methods used in games and other applications. It also presents a solid theoretical framework and relevant mathematics for the field of interactive computer graphics, all in an approachable style.
+    - They also list a helluva lot of [graphics books resources](http://www.realtimerendering.com/books.html) except their own book on their website.
+    - And here is their [blog](http://www.realtimerendering.com/blog/).
 
 ------------------------------------------------
 
@@ -44,6 +46,25 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
     - You can surf the [projects](http://graphicscodex.com/projects/projects/#projects) listed in the library.
         - Here is an [example project - Cubes](http://graphicscodex.com/projects/cubes/index.html).
     - To see in which order the projects should be completed see these [dependencies description](http://graphicscodex.com/projects/projects/#dependencies). Looks like there are no strict dependencies.
+
+------------------------------------------------
+
+#### OpenGL Learning Resources:
+* [Guide as learning Path for a Game Engine Programmer](https://miloyip.github.io/game-programmer/game-programmer.pdf).
+* [Great Start for learning OpenGL @LearnOpenGL.COM.](https://learnopengl.com/Getting-started/OpenGL).
+    - Here is the [github link](https://github.com/JoeyDeVries/LearnOpenGL) associated with this tutorial.
+    - [Glitter](https://github.com/Polytonic/Glitter) is a dead simple boilerplate for OpenGL, intended as a starting point for the tutorials on learnopengl.com and open.gl.
+    - See its [sample usage](https://github.com/Polytonic/Glitter/tree/master/Samples) on how to use Glitter.
+* [Wow! A book of Shaders, Learn Shading Language. It has a whole content from shading, 3D Graphics, simulation etc.](https://thebookofshaders.com/)
+* [OpenGL introduction from TheCherno Project - youtube playlist](https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2).
+* [Another place to learn openGL.](http://www.opengl-tutorial.org/beginners-tutorials/)
+* [Yet another place to learn openGL.](http://ogldev.atspace.co.uk/)
+* [Yet yet another place to learn openGL.](https://open.gl/)
+* [OpenGL Khronos Group man page and other beautiful related references.](https://www.khronos.org/registry/OpenGL-Refpages/)
+* [OpenGL and Computer Graphics Resources](http://www.lighthouse3d.com/about/)
+* [Learn Computer Graphics using **WebGL**](http://webgl.brown37.net/index.html) : This interactive textbook will teach you how to create interactive 3D computer graphics content that can be viewed and manipulated in a web browser. As you learn computer graphic concepts you will apply them using WebGL – a version of OpenGL (Open Graphics Library) that works in most web browsers.
+* Nice conceptual [articles on computer graphics in codinglabs website](http://www.codinglabs.net/article_world_view_projection_matrix.aspx).
+* [Computer Graphics Tutorial](https://www.tutorialspoint.com/computer_graphics/) from tutorialspoint gives you hands on experience with basic and advanced concepts and their implementation.
 
 ------------------------------------------------
 
@@ -80,25 +101,6 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
     - [GLAD](https://github.com/ValtoLibraries/GLAD) is a C++ (multi-Language) GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs. Here is the [online GLAD generator](https://glad.dav1d.de/).
     - [GLFW](https://www.glfw.org/index.html) is an Open Source, multi-platform library for OpenGL, OpenGL ES and Vulkan development on the desktop. It provides a simple API for creating windows, contexts and surfaces, receiving input and events.
     - [OpenGL Mathematics (GLM)](https://glm.g-truc.net/0.9.9/index.html) is a header only C++ mathematics library for graphics software based on the [OpenGL Shading Language (GLSL) specifications](https://www.khronos.org/registry/OpenGL/specs/gl/GLSLangSpec.4.50.pdf). Here is [its github repository](https://github.com/g-truc/glm).
-
-------------------------------------------------
-
-#### OpenGL Learning Resources:
-* [Guide as learning Path for a Game Engine Programmer](https://miloyip.github.io/game-programmer/game-programmer.pdf).
-* [Great Start for learning OpenGL @LearnOpenGL.COM.](https://learnopengl.com/Getting-started/OpenGL).
-    - Here is the [github link](https://github.com/JoeyDeVries/LearnOpenGL) associated with this tutorial.
-    - [Glitter](https://github.com/Polytonic/Glitter) is a dead simple boilerplate for OpenGL, intended as a starting point for the tutorials on learnopengl.com and open.gl.
-    - See its [sample usage](https://github.com/Polytonic/Glitter/tree/master/Samples) on how to use Glitter.
-* [Wow! A book of Shaders, Learn Shading Language. It has a whole content from shading, 3D Graphics, simulation etc.](https://thebookofshaders.com/)
-* [OpenGL introduction from TheCherno Project - youtube playlist](https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2).
-* [Another place to learn openGL.](http://www.opengl-tutorial.org/beginners-tutorials/)
-* [Yet another place to learn openGL.](http://ogldev.atspace.co.uk/)
-* [Yet yet another place to learn openGL.](https://open.gl/)
-* [OpenGL Khronos Group man page and other beautiful related references.](https://www.khronos.org/registry/OpenGL-Refpages/)
-* [OpenGL and Computer Graphics Resources](http://www.lighthouse3d.com/about/)
-* [Learn Computer Graphics using **WebGL**](http://webgl.brown37.net/index.html) : This interactive textbook will teach you how to create interactive 3D computer graphics content that can be viewed and manipulated in a web browser. As you learn computer graphic concepts you will apply them using WebGL – a version of OpenGL (Open Graphics Library) that works in most web browsers.
-* Nice conceptual [articles on computer graphics in codinglabs website](http://www.codinglabs.net/article_world_view_projection_matrix.aspx).
-* [Computer Graphics Tutorial](https://www.tutorialspoint.com/computer_graphics/) from tutorialspoint gives you hands on experience with basic and advanced concepts and their implementation.
 
 ------------------------------------------------
 
@@ -181,7 +183,9 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
     4. Run `make` to build our project : `make`
     5. You will get the executables built in this `build` folder.
 
-##### **Note that** you can also use [Glitter](https://github.com/Polytonic/Glitter) to get started with OpenGL, it is is a dead simple boilerplate for OpenGL, intended as a starting point for the tutorials on learnopengl.com and open.gl. See its [sample usage](https://github.com/Polytonic/Glitter/tree/master/Samples) on how to use Glitter.
+#### **Note that** 
+1. You can also use [Glitter](https://github.com/Polytonic/Glitter) to get started with OpenGL, it is is a dead simple boilerplate for OpenGL, intended as a starting point for the tutorials on learnopengl.com and open.gl. See its [sample usage](https://github.com/Polytonic/Glitter/tree/master/Samples) on how to use Glitter.
+2. Alternatively, you could use [GFX](https://github.com/gboisse/gfx) - a minimalist and easy to use graphics API.
     
 ------------------------------------------------
 
