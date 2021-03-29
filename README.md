@@ -68,6 +68,35 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 
 ------------------------------------------------
 
+#### GPU programming, Shader Programming, OpenCL Learning Resources:
+* [Hands On OpenCL](https://handsonopencl.github.io/) : An open source two-day lecture course for teaching and learning OpenCL. Here is the [github link](https://github.com/HandsOnOpenCL).
+* [OpenCL technical overview](https://www.youtube.com/watch?v=aKtpZuokeEk&list=PLVk9nlso0x0K0pRMzEj0-kbidFBxohTTk).
+   - [OpenCL webinars and tutorials](https://www.youtube.com/playlist?list=PLVk9nlso0x0KnqII22naRMXj_8zAmHKnw).
+   - [OpenCL on demand webinars](https://www.youtube.com/playlist?list=PLVk9nlso0x0LoT7P-GVWEASBSS750gLn6).
+   - [Developer Central AMD](https://www.youtube.com/user/DevCentralSupport/playlists).
+* Resources for parallel and GPU computing with OpenCL.
+        - [OpenCL learning resources and much more from Khronos Group](https://github.com/KhronosGroup/Khronosdotorg/blob/master/api/opencl/resources.md#learning-opencl).
+        - [OpenCL user guide](http://developer.amd.com/wordpress/media/2013/12/AMD_OpenCL_Programming_User_Guide2.pdf).
+* Learn about [Compute Shaders](https://www.youtube.com/watch?v=0DLOJPSxJEg) : how they work and why to use them.
+        - Here is [wiki from Khronos group about compute shaders](https://www.khronos.org/opengl/wiki/Compute_Shader).
+* [OpenCL tutorials - David Gohara](https://www.youtube.com/playlist?list=PLTfYiv7-a3l7mYEdjk35wfY-KQj5yVXO2).
+* [The C++ for OpenCL Programming Language](https://www.youtube.com/watch?v=SR5E3hKVh14).
+* [What is GPU computing](https://www.boston.co.uk/info/nvidia-kepler/what-is-gpu-computing.aspx).
+    - [Ashot Vardanian — Dive into the general purpose GPU programming](https://www.youtube.com/watch?v=AA4RI6o0h1U).
+    - [The Illusion of Motion: Making Magic with Textures in the Vertex Shader](https://www.youtube.com/watch?v=EUTE1SoOGrk).
+    - [CppCon 2019: Gordon Brown “Efficient GPU Programming with Modern C++”](https://www.youtube.com/watch?v=8pJS3n4MITM).
+* Introducing [GPUOpen](https://gpuopen.com/) :
+    - an AMD initiative designed to enable developers to create ground-breaking PC games, computer generated imagery and GPU computing applications for great performance and lifelike experiences using no cost and open development tools and software.
+    - [GPUOpen-Tools](https://github.com/GPUOpen-Tools) (git repository) is a comprehensive collection of visual effects, productivity tools, and other content at no cost from GPUOpen initiative from AMD.
+        - [CodeXL](https://gpuopen.com/compute-product/codexl/) is one such tool from GPUOpen initative. It enables developers to harness the benefits of GPUs and APUs. Combine  C/C++ debugging with comprehensive GPU debugging of OpenCL & OpenGL API calls. Peek into compute and graphic memory objects, monitor their contents, and detect memory leaks and code paths that caused it.
+            - [CodeXL's github repository](https://github.com/GPUOpen-Tools/CodeXL).
+* [Efficient shader tricks](http://web.engr.oregonstate.edu/~mjb/cs519/Projects/Papers/ShaderTricks.pdf).
+* [Shader tricks from ATI & power of maths etc.](https://developer.amd.com/wordpress/media/2012/10/03_Clever_Shader_Tricks.pdf).
+* [Avoiding shader conditionals](http://theorangeduck.com/page/avoiding-shader-conditionals)
+* [GLSL optimizations](https://www.khronos.org/opengl/wiki/GLSL_Optimizations).
+
+------------------------------------------------
+
 #### C/C++ learning resources:
 1. [Introduction to C and C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013/) a course from MIT OCW.
 
@@ -101,35 +130,6 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
     - [GLAD](https://github.com/ValtoLibraries/GLAD) is a C++ (multi-Language) GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs. Here is the [online GLAD generator](https://glad.dav1d.de/).
     - [GLFW](https://www.glfw.org/index.html) is an Open Source, multi-platform library for OpenGL, OpenGL ES and Vulkan development on the desktop. It provides a simple API for creating windows, contexts and surfaces, receiving input and events.
     - [OpenGL Mathematics (GLM)](https://glm.g-truc.net/0.9.9/index.html) is a header only C++ mathematics library for graphics software based on the [OpenGL Shading Language (GLSL) specifications](https://www.khronos.org/registry/OpenGL/specs/gl/GLSLangSpec.4.50.pdf). Here is [its github repository](https://github.com/g-truc/glm).
-
-------------------------------------------------
-
-#### GPU programming, Shader Programming, OpenCL Learning Resources:
-* [Hands On OpenCL](https://handsonopencl.github.io/) : An open source two-day lecture course for teaching and learning OpenCL. Here is the [github link](https://github.com/HandsOnOpenCL).
-* [OpenCL technical overview](https://www.youtube.com/watch?v=aKtpZuokeEk&list=PLVk9nlso0x0K0pRMzEj0-kbidFBxohTTk).
-   - [OpenCL webinars and tutorials](https://www.youtube.com/playlist?list=PLVk9nlso0x0KnqII22naRMXj_8zAmHKnw).
-   - [OpenCL on demand webinars](https://www.youtube.com/playlist?list=PLVk9nlso0x0LoT7P-GVWEASBSS750gLn6).
-   - [Developer Central AMD](https://www.youtube.com/user/DevCentralSupport/playlists).
-* Resources for parallel and GPU computing with OpenCL.
-        - [OpenCL learning resources and much more from Khronos Group](https://github.com/KhronosGroup/Khronosdotorg/blob/master/api/opencl/resources.md#learning-opencl).
-        - [OpenCL user guide](http://developer.amd.com/wordpress/media/2013/12/AMD_OpenCL_Programming_User_Guide2.pdf).
-* Learn about [Compute Shaders](https://www.youtube.com/watch?v=0DLOJPSxJEg) : how they work and why to use them.
-        - Here is [wiki from Khronos group about compute shaders](https://www.khronos.org/opengl/wiki/Compute_Shader).
-* [OpenCL tutorials - David Gohara](https://www.youtube.com/playlist?list=PLTfYiv7-a3l7mYEdjk35wfY-KQj5yVXO2).
-* [The C++ for OpenCL Programming Language](https://www.youtube.com/watch?v=SR5E3hKVh14).
-* [What is GPU computing](https://www.boston.co.uk/info/nvidia-kepler/what-is-gpu-computing.aspx).
-    - [Ashot Vardanian — Dive into the general purpose GPU programming](https://www.youtube.com/watch?v=AA4RI6o0h1U).
-    - [The Illusion of Motion: Making Magic with Textures in the Vertex Shader](https://www.youtube.com/watch?v=EUTE1SoOGrk).
-    - [CppCon 2019: Gordon Brown “Efficient GPU Programming with Modern C++”](https://www.youtube.com/watch?v=8pJS3n4MITM).
-* Introducing [GPUOpen](https://gpuopen.com/) :
-    - an AMD initiative designed to enable developers to create ground-breaking PC games, computer generated imagery and GPU computing applications for great performance and lifelike experiences using no cost and open development tools and software.
-    - [GPUOpen-Tools](https://github.com/GPUOpen-Tools) (git repository) is a comprehensive collection of visual effects, productivity tools, and other content at no cost from GPUOpen initiative from AMD.
-        - [CodeXL](https://gpuopen.com/compute-product/codexl/) is one such tool from GPUOpen initative. It enables developers to harness the benefits of GPUs and APUs. Combine  C/C++ debugging with comprehensive GPU debugging of OpenCL & OpenGL API calls. Peek into compute and graphic memory objects, monitor their contents, and detect memory leaks and code paths that caused it.
-            - [CodeXL's github repository](https://github.com/GPUOpen-Tools/CodeXL).
-* [Efficient shader tricks](http://web.engr.oregonstate.edu/~mjb/cs519/Projects/Papers/ShaderTricks.pdf).
-* [Shader tricks from ATI & power of maths etc.](https://developer.amd.com/wordpress/media/2012/10/03_Clever_Shader_Tricks.pdf).
-* [Avoiding shader conditionals](http://theorangeduck.com/page/avoiding-shader-conditionals)
-* [GLSL optimizations](https://www.khronos.org/opengl/wiki/GLSL_Optimizations).
 
 ------------------------------------------------
 
