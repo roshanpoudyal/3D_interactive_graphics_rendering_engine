@@ -200,6 +200,7 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 
 #### Future direction:
 1. Implement [catlikecoding tutorials](https://catlikecoding.com/unity/tutorials/) by using only shaders in the basic OpenGL framework you built here. **If it is possible to do [this](http://www.iquilezles.org/www/articles/sdfmodeling/sdfmodeling.htm) just using shaders, why don't you give it a try as well.**
-2. Do all of this OpenGL project to [display graphics in Android (mobile) platform using Android Studio](https://developer.android.com/training/graphics/opengl/).
+    1. Basically use the environment created in this project to work on [this project](https://github.com/roshanpoudyal/Catlikecoding-tutorials-with-Cpp). 
+1. Do all of this OpenGL project to [display graphics in Android (mobile) platform using Android Studio](https://developer.android.com/training/graphics/opengl/).
 
 
