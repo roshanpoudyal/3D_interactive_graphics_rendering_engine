@@ -103,12 +103,11 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 ------------------------------------------------
 
 #### Mathematics for Computer Graphics learning resources:
-1. Learn [essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) from [3Blue1Brown youtube channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw).
-    - Also learn [essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).
-2. Learn [linear algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) and [Computational science and engineering](https://www.youtube.com/playlist?list=PLF706B428FB7BD52C) from [Gilbert strang](http://www-math.mit.edu/~gs/).
-    - Follow his other lectures and books from [his website](http://www-math.mit.edu/~gs/).
-    
-##### Painting with math - an Inspiration - the beauty of math and shaders :
+1. This is common with books on mathematics for visual computing, see [this section here](https://github.com/roshanpoudyal/Visual-Computing-Markerless-Motion-Pose-Face-detection-tracking-and-3D-reconstruction#books-and-resources-on-mathematics-for-visual-computing-aimlcvcg). 
+
+------------------------------------------------
+
+#### Painting with math - an Inspiration - the beauty of math and shaders :
 1. [Íñigo Quílez](https://www.iquilezles.org/) uses mathematics and shaders to create beautiful computer graphics like [this](http://www.iquilezles.org/www/articles/sdfmodeling/sdfmodeling.htm). Visit his [articles](https://www.iquilezles.org/www/index.htm) page for tutorials on the techniques he developed for his computer graphics experiments, demos, shadertoys and movies. For video tutorials, code and other useful resources visit his [productions](https://www.iquilezles.org/prods/index.htm).
     - He is one of the most profilic writers on the subject [signed distance function](https://iquilezles.org/www/articles/distfunctions/distfunctions.htm). The same concept also blogged [here](https://www.alanzucconi.com/2016/07/01/signed-distance-functions/) and [here](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/).
 2. A [nice blog post on ray marching](http://www.michaelwalczyk.com/blog/2017/5/25/ray-marching) with simple sphere example to explain the concept.
