@@ -97,11 +97,6 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 
 ------------------------------------------------
 
-#### C/C++ learning resources:
-1. [Introduction to C and C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013/) a course from MIT OCW.
-
-------------------------------------------------
-
 #### Mathematics for Computer Graphics learning resources:
 1. This is common with books on mathematics for visual computing, see [this section here](https://github.com/roshanpoudyal/Visual-Computing-Markerless-Motion-Pose-Face-detection-tracking-and-3D-reconstruction#books-and-resources-on-mathematics-for-visual-computing-aimlcvcg). 
 
