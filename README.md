@@ -70,6 +70,7 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 ------------------------------------------------
 
 #### GPU programming, Shader Programming, OpenCL Learning Resources:
+* [AdaptiveCpp](https://github.com/AdaptiveCpp/AdaptiveCpp) : Implementation of SYCL and C++ standard parallelism for CPUs and GPUs from all vendors: The independent, community-driven compiler for C++-based heterogeneous programming models.
 * [Hands On OpenCL](https://handsonopencl.github.io/) : An open source two-day lecture course for teaching and learning OpenCL. Here is the [github link](https://github.com/HandsOnOpenCL).
 * [OpenCL technical overview](https://www.youtube.com/watch?v=aKtpZuokeEk&list=PLVk9nlso0x0K0pRMzEj0-kbidFBxohTTk).
    - [OpenCL webinars and tutorials](https://www.youtube.com/playlist?list=PLVk9nlso0x0KnqII22naRMXj_8zAmHKnw).
