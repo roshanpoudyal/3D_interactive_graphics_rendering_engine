@@ -57,7 +57,8 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
     - [Glitter](https://github.com/Polytonic/Glitter) is a dead simple boilerplate for OpenGL, intended as a starting point for the tutorials on learnopengl.com and open.gl.
     - See its [sample usage](https://github.com/Polytonic/Glitter/tree/master/Samples) on how to use Glitter.
 * [Wow! A book of Shaders, Learn Shading Language. It has a whole content from shading, 3D Graphics, simulation etc.](https://thebookofshaders.com/)
-* [OpenGL introduction from TheCherno Project - youtube playlist](https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2).
+* [OpenGL introduction - youtube playlist](https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2) from [TheCherno](https://www.youtube.com/@TheCherno) Project.
+    1. [Building an OpenGL Base Library](https://youtu.be/cybc6XA1czo?feature=shared)  
 * [Another place to learn openGL.](http://www.opengl-tutorial.org/beginners-tutorials/)
 * [Yet another place to learn openGL.](http://ogldev.atspace.co.uk/)
 * [Yet yet another place to learn openGL.](https://open.gl/)
