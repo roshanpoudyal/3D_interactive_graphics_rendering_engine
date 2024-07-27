@@ -56,11 +56,12 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
     - Here is the [github link](https://github.com/JoeyDeVries/LearnOpenGL) associated with this tutorial.
     - [Glitter](https://github.com/Polytonic/Glitter) is a dead simple boilerplate for OpenGL, intended as a starting point for the tutorials on learnopengl.com and open.gl.
     - See its [sample usage](https://github.com/Polytonic/Glitter/tree/master/Samples) on how to use Glitter.
-* [Wow! A book of Shaders, Learn Shading Language. It has a whole content from shading, 3D Graphics, simulation etc.](https://thebookofshaders.com/)
+* [A book of Shaders, Learn Shading Language. It has a whole content from shading, 3D Graphics, simulation etc.](https://thebookofshaders.com/)
 * [OpenGL introduction - youtube playlist](https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2) from [TheCherno](https://www.youtube.com/@TheCherno) Project.
     1. [Building an OpenGL Base Library](https://youtu.be/cybc6XA1czo?feature=shared)  
 * [Another place to learn openGL.](http://www.opengl-tutorial.org/beginners-tutorials/)
-* [Yet another place to learn openGL.](http://ogldev.atspace.co.uk/)
+* [OpenGL learning resources form OGLDEV](https://www.youtube.com/@OGLDEV)
+* [OpenGL learning playlist from Mike Shah](https://www.youtube.com/playlist?list=PLvv0ScY6vfd9zlZkIIqGDeG5TUWswkMox)
 * [Yet yet another place to learn openGL.](https://open.gl/)
 * [OpenGL Khronos Group man page and other beautiful related references.](https://www.khronos.org/registry/OpenGL-Refpages/)
 * [OpenGL and Computer Graphics Resources](http://www.lighthouse3d.com/about/)
